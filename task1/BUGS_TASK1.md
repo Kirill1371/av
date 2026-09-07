@@ -49,9 +49,9 @@
 - **Фактический результат**: Отображается цена **52 000 ₽**.
 - **Ожидаемый результат**: Должна отображаться цена **25 000 руб.** (как в `edit-form.png` и `seller-card.png`).
 - **Влияние**: Покупателю показывается некорректная цена (перепутаны цифры 25 -> 52), что блокирует продажи и вводит клиентов в заблуждение.
-<img width="353" height="215" alt="image" src="https://github.com/user-attachments/assets/7184f4ce-537e-4e51-bd1a-2ac93cce27de" />
+<img width="353" height="215" alt="image" src="screenshots/7184f4ce-537e-4e51-bd1a-2ac93cce27de.png" />
 
-<img width="562" height="131" alt="image" src="https://github.com/user-attachments/assets/be5077e8-5e45-4f4d-a970-a73350611e3a" />
+<img width="562" height="131" alt="image" src="screenshots/be5077e8-5e45-4f4d-a970-a73350611e3a.png" />
 
 
 
@@ -62,9 +62,9 @@
 - **Ожидаемый результат**: Авито Доставка должна быть доступна для заказа, так как в `edit-form.png` выбрано «Авито Доставка: Включена (Выбраны 2 способа отправки)» и в `seller-card.png` переключатель «Партнёрами Авито» включен.
 - **Влияние**: Покупатель не может оформить покупку товара с доставкой.
 
-<img width="560" height="109" alt="image" src="https://github.com/user-attachments/assets/742045ed-e630-4899-842d-7997883cad33" />
+<img width="560" height="109" alt="image" src="screenshots/742045ed-e630-4899-842d-7997883cad33.png" />
 
-<img width="630" height="216" alt="image" src="https://github.com/user-attachments/assets/a4739f90-70ce-4029-a34d-d808e4288dfe" />
+<img width="630" height="216" alt="image" src="screenshots/a4739f90-70ce-4029-a34d-d808e4288dfe.png" />
 
 
 
@@ -73,9 +73,9 @@
 - **Фактический результат**: В кабинете продавца у объявления статус «На проверке», однако публичная карточка товара уже опубликована и доступна по прямой ссылке / из поиска («Опубликовано»).
 - **Ожидаемый результат**: Объявление на этапе модерации («На проверке») не должно быть доступно покупателям до успешного завершения проверки.
 
-<img width="431" height="77" alt="image" src="https://github.com/user-attachments/assets/bf1249d6-faa8-434e-8976-7c2a877f5d56" />
+<img width="431" height="77" alt="image" src="screenshots/bf1249d6-faa8-434e-8976-7c2a877f5d56.png" />
 
-<img width="505" height="58" alt="image" src="https://github.com/user-attachments/assets/4258da57-1a8c-4756-aaab-2f440f8801ba" />
+<img width="505" height="58" alt="image" src="screenshots/4258da57-1a8c-4756-aaab-2f440f8801ba.png" />
 
 
 
@@ -88,9 +88,9 @@
 - **Фактический результат**: Заголовок объявления: `Диван прямой QA Sofa 2026 раскладной`.
 - **Ожидаемый результат**: Заголовок должен быть `Диван угловой модульный QA Sofa 2026 раскладной` (согласно `edit-form.png`).
 
-<img width="454" height="72" alt="image" src="https://github.com/user-attachments/assets/0a0477b0-cf12-4f06-aab2-5dd963a22bcd" />
+<img width="454" height="72" alt="image" src="screenshots/0a0477b0-cf12-4f06-aab2-5dd963a22bcd.png" />
 
-<img width="1483" height="160" alt="image" src="https://github.com/user-attachments/assets/20d67356-db2e-4336-ab08-4506b551009b" />
+<img width="1483" height="160" alt="image" src="screenshots/20d67356-db2e-4336-ab08-4506b551009b.png" />
 
 
 
@@ -100,9 +100,9 @@
 - **Фактический результат**: `Состояние обивки: Требует замены`.
 - **Ожидаемый результат**: `Состояние обивки: Всё в порядке` (в `edit-form.png` выбрано «Всё в порядке»).
 
-<img width="492" height="74" alt="image" src="https://github.com/user-attachments/assets/eae3aee4-8075-4e89-88a6-5d57f68ea957" />
+<img width="492" height="74" alt="image" src="screenshots/eae3aee4-8075-4e89-88a6-5d57f68ea957.png" />
 
-<img width="1022" height="120" alt="image" src="https://github.com/user-attachments/assets/8ebff96e-182a-401c-9f4b-22ff4d2a6ab8" />
+<img width="1022" height="120" alt="image" src="screenshots/8ebff96e-182a-401c-9f4b-22ff4d2a6ab8.png" />
 
 
 #### BUG-06: Искажение состояния раскладного механизма в карточке покупателя
@@ -110,9 +110,9 @@
 - **Фактический результат**: `Раскладной механизм: Требуется ремонт`.
 - **Ожидаемый результат**: `Раскладной механизм: Всё в порядке` (в `edit-form.png` выбрано «Всё в порядке»).
 
-<img width="547" height="47" alt="image" src="https://github.com/user-attachments/assets/8123b43f-4131-4de6-9bf5-d6968a3d72ce" />
+<img width="547" height="47" alt="image" src="screenshots/8123b43f-4131-4de6-9bf5-d6968a3d72ce.png" />
 
-<img width="1284" height="133" alt="image" src="https://github.com/user-attachments/assets/3df4b49a-e877-4a09-9018-42f8dd7b50bc" />
+<img width="1284" height="133" alt="image" src="screenshots/3df4b49a-e877-4a09-9018-42f8dd7b50bc.png" />
 
 
 
@@ -122,18 +122,18 @@
 - **Фактический результат**: `Каркас: Требуется ремонт`.
 - **Ожидаемый результат**: `Каркас: Всё в порядке` (в `edit-form.png` выбрано «Всё в порядке»).
 
-<img width="557" height="109" alt="image" src="https://github.com/user-attachments/assets/18aae68d-e1c5-4844-a5c0-8d37450b8057" />
+<img width="557" height="109" alt="image" src="screenshots/18aae68d-e1c5-4844-a5c0-8d37450b8057.png" />
 
-<img width="1301" height="141" alt="image" src="https://github.com/user-attachments/assets/cafc2321-70b5-49a7-8f2e-f53169562577" />
+<img width="1301" height="141" alt="image" src="screenshots/cafc2321-70b5-49a7-8f2e-f53169562577.png" />
 
 #### BUG-08: Некорректное значение характеристики «Форма» на карточке товара
 - **Где обнаружено**: `item-card.png` (Раздел «Характеристики»)
 - **Фактический результат**: `Форма: Прямой`.
 - **Ожидаемый результат**: `Форма: Угловой` (в `edit-form.png` выбрано «Угловой»).
 
-<img width="534" height="173" alt="image" src="https://github.com/user-attachments/assets/250b6023-bc2d-42a5-b553-02b3d374de89" />
+<img width="534" height="173" alt="image" src="screenshots/250b6023-bc2d-42a5-b553-02b3d374de89.png" />
 
-<img width="967" height="111" alt="image" src="https://github.com/user-attachments/assets/d76e8b2a-732f-4056-91bb-15a4d4023c24" />
+<img width="967" height="111" alt="image" src="screenshots/d76e8b2a-732f-4056-91bb-15a4d4023c24.png" />
 
 
 #### BUG-09: Искажение характеристики «Модульный» на карточке товара
@@ -141,9 +141,9 @@
 - **Фактический результат**: `Модульный: Нет`.
 - **Ожидаемый результат**: `Модульный: Да` (в `edit-form.png` выбрана опция «Да»).
 
-<img width="537" height="173" alt="image" src="https://github.com/user-attachments/assets/d27267d3-a306-4f11-afe6-7338a7842387" />
+<img width="537" height="173" alt="image" src="screenshots/d27267d3-a306-4f11-afe6-7338a7842387.png" />
 
-<img width="945" height="102" alt="image" src="https://github.com/user-attachments/assets/c6bbfb62-d6e3-497f-b792-df289dfbf84f" />
+<img width="945" height="102" alt="image" src="screenshots/c6bbfb62-d6e3-497f-b792-df289dfbf84f.png" />
 
 
 
@@ -152,9 +152,9 @@
 - **Фактический результат**: `Спальное место: Нет` (при этом ниже указан размер спального места `140 × 200 см` — логическое противоречие).
 - **Ожидаемый результат**: `Спальное место: Есть` (в `edit-form.png` выбрана опция «Есть»).
 
-<img width="531" height="171" alt="image" src="https://github.com/user-attachments/assets/d2fb2345-83cf-4385-bb8c-e35f5b234fd8" />
+<img width="531" height="171" alt="image" src="screenshots/d2fb2345-83cf-4385-bb8c-e35f5b234fd8.png" />
 
-<img width="809" height="101" alt="image" src="https://github.com/user-attachments/assets/aeb7c765-30eb-4d39-8ca5-ec4b782c0928" />
+<img width="809" height="101" alt="image" src="screenshots/aeb7c765-30eb-4d39-8ca5-ec4b782c0928.png" />
 
 
 
@@ -162,9 +162,9 @@
 - **Где обнаружено**: `item-card.png` (Раздел «Характеристики»)
 - **Фактический результат**: `Раскладной механизм: Нет` (при этом указан тип механизма `Еврокнижка` — логическое противоречие).
 - **Ожидаемый результат**: `Раскладной механизм: Есть` (в `edit-form.png` выбрана опция «Есть»).
-<img width="527" height="171" alt="image" src="https://github.com/user-attachments/assets/1cebda05-13e7-4554-a9b4-723ea392dc2d" />
+<img width="527" height="171" alt="image" src="screenshots/1cebda05-13e7-4554-a9b4-723ea392dc2d.png" />
 
-<img width="1164" height="206" alt="image" src="https://github.com/user-attachments/assets/fab4b1ba-b41a-43b1-a422-5df299cc0184" />
+<img width="1164" height="206" alt="image" src="screenshots/fab4b1ba-b41a-43b1-a422-5df299cc0184.png" />
 
 
 
@@ -172,10 +172,10 @@
 - **Где обнаружено**: `item-card.png` (Раздел «Характеристики»)
 - **Фактический результат**: `Высота: 95 см`, `Глубина: 85 см`.
 - **Ожидаемый результат**: `Высота: 85 см`, `Глубина: 95 см` (в `edit-form.png` Высота = 85 см, Глубина = 95 см).
-<img width="526" height="171" alt="image" src="https://github.com/user-attachments/assets/6f952bb4-5f75-4fc9-89b4-3b610216427a" />
+<img width="526" height="171" alt="image" src="screenshots/6f952bb4-5f75-4fc9-89b4-3b610216427a.png" />
 
 
-<img width="991" height="159" alt="image" src="https://github.com/user-attachments/assets/529b89fb-29f4-43cb-a242-4cf5d12aaa8a" />
+<img width="991" height="159" alt="image" src="screenshots/529b89fb-29f4-43cb-a242-4cf5d12aaa8a.png" />
 
 
 
@@ -184,9 +184,9 @@
 - **Фактический результат**: `в наличии 3 шт.`.
 - **Ожидаемый результат**: `в наличии 1 шт.` (в `edit-form.png` указано «Количество: 1 шт.», в `seller-card.png` — «1 шт.»).
 
-<img width="737" height="63" alt="image" src="https://github.com/user-attachments/assets/f674c9fb-7bb9-473c-9a71-8ee6e97f455e" />   --------------------------------------------------------
+<img width="737" height="63" alt="image" src="screenshots/f674c9fb-7bb9-473c-9a71-8ee6e97f455e.png" />   --------------------------------------------------------
 
-<img width="1387" height="133" alt="image" src="https://github.com/user-attachments/assets/2878dc07-073d-4ffb-b57f-7bf0b87de1c7" />
+<img width="1387" height="133" alt="image" src="screenshots/2878dc07-073d-4ffb-b57f-7bf0b87de1c7.png" />
 
 
 
@@ -195,9 +195,9 @@
 - **Где обнаружено**: `item-card.png` (Раздел «Местоположение»)
 - **Фактический результат**: `Москва, пл. Революции, 5`.
 - **Ожидаемый результат**: `Москва, пл. Революции, 3` (в `edit-form.png` и `seller-card.png` указан дом 3).
-<img width="919" height="145" alt="image" src="https://github.com/user-attachments/assets/9a6026da-feef-4a88-a891-c594a8048cc9" />
+<img width="919" height="145" alt="image" src="screenshots/9a6026da-feef-4a88-a891-c594a8048cc9.png" />
 
-<img width="1471" height="124" alt="image" src="https://github.com/user-attachments/assets/9772ef79-7215-4028-a204-9d5034c0018f" />
+<img width="1471" height="124" alt="image" src="screenshots/9772ef79-7215-4028-a204-9d5034c0018f.png" />
 
 ---
 
@@ -208,12 +208,12 @@
 - **Фактический результат**: К тексту описания добавлено `...с ящиком для белья, подлокотниками и подушками.`.
 - **Ожидаемый результат**: Описание должно строго соответствовать введенному в `edit-form.png`: `Тестовое объявление для проверки отображения карточки и характеристик. Угловой раскладной диван.`.
 
-<img width="894" height="155" alt="image" src="https://github.com/user-attachments/assets/a4b035a6-c032-47b7-ac3d-f46644f7987b" />
+<img width="894" height="155" alt="image" src="screenshots/a4b035a6-c032-47b7-ac3d-f46644f7987b.png" />
 
-<img width="1126" height="164" alt="image" src="https://github.com/user-attachments/assets/f93e5a73-cf49-4f7c-a0b0-aa9dfa4e8017" />
+<img width="1126" height="164" alt="image" src="screenshots/f93e5a73-cf49-4f7c-a0b0-aa9dfa4e8017.png" />
 
 
-<img width="1518" height="225" alt="image" src="https://github.com/user-attachments/assets/76b4afe6-90aa-4287-a74a-452e80397008" />
+<img width="1518" height="225" alt="image" src="screenshots/76b4afe6-90aa-4287-a74a-452e80397008.png" />
 
 
 
@@ -221,20 +221,20 @@
 - **Где обнаружено**: `item-card.png` и `seller-card.png` (Раздел «Характеристики»)
 - **Фактический результат**: `Особенности: Ящик для белья, Подлокотники, Подушки`.
 - **Ожидаемый результат**: В `edit-form.png` не выбирались опции «Ящик для белья» и «Подлокотники» (в форме присутствует только «Подушки для спинки: В комплекте»). Несуществующие особенности не должны выводиться.
-<img width="601" height="210" alt="image" src="https://github.com/user-attachments/assets/25a3d2c7-ce52-445d-ad6e-7485cd4eec54" />
+<img width="601" height="210" alt="image" src="screenshots/25a3d2c7-ce52-445d-ad6e-7485cd4eec54.png" />
 
 
-<img width="445" height="116" alt="image" src="https://github.com/user-attachments/assets/264771c9-f1ef-4909-88a8-3f46932bc956" />
+<img width="445" height="116" alt="image" src="screenshots/264771c9-f1ef-4909-88a8-3f46932bc956.png" />
 
 
-<img width="1393" height="151" alt="image" src="https://github.com/user-attachments/assets/a876ee4d-6f0d-4bc9-8ac4-1209dbb97977" />
+<img width="1393" height="151" alt="image" src="screenshots/a876ee4d-6f0d-4bc9-8ac4-1209dbb97977.png" />
 
 
 #### BUG-17: Отображение технического идентификатора акции в интерфейсе продавца
 - **Где обнаружено**: `seller-card.png` (Правая колонка, блок промо-акций)
 - **Фактический результат**: Выводится системный ключ `Скидки в test_sale_ops`.
 - **Ожидаемый результат**: Пользователю должно выводиться человекочитаемое название маркетинговой кампании (например, «Скидки на товары»).
-<img width="205" height="120" alt="image" src="https://github.com/user-attachments/assets/097591f3-4dcb-4108-84b6-05e4b5c6f681" />
+<img width="205" height="120" alt="image" src="screenshots/097591f3-4dcb-4108-84b6-05e4b5c6f681.png" />
 
 
 ---
@@ -247,7 +247,7 @@
   `Внешний вид`
   `Внешний вид`
 - **Ожидаемый результат**: Название секции «Внешний вид» должно выводиться один раз.
-<img width="706" height="122" alt="image" src="https://github.com/user-attachments/assets/73a62772-719f-4d9d-9e24-1a950df64fae" />
+<img width="706" height="122" alt="image" src="screenshots/73a62772-719f-4d9d-9e24-1a950df64fae.png" />
 
 
 
@@ -255,26 +255,26 @@
 - **Где обнаружено**: `seller-card.png` (Блок «Скидки в test_sale_ops»)
 - **Фактический результат**: Над заголовком акции отображается иконка незагрузившегося изображения `[?]`.
 - **Ожидаемый результат**: Корректное отображение графической иконки акции.
-<img width="205" height="120" alt="image" src="https://github.com/user-attachments/assets/94b4ecfc-2b36-4642-b12a-9ac2ea5117b7" />
+<img width="205" height="120" alt="image" src="screenshots/94b4ecfc-2b36-4642-b12a-9ac2ea5117b7.png" />
 
 
 #### BUG-20: Дублирование фрагмента шапки (header) в нижней части страницы карточки товара
 - **Где обнаружено**: `item-card.png` (Нижняя часть скриншота под подвалом)
 - **Фактический результат**: В самом низу страницы под футтером повторно отрисована срезанная шапка сайта (`© Для бизнеса ... Avito [Поиск по объявлениям]`).
 - **Ожидаемый результат**: Страница должна завершаться подвалом (footer) без фантомного дублирования шапки.
-<img width="688" height="266" alt="image" src="https://github.com/user-attachments/assets/48298d05-b3a4-4738-8ff4-b8974bf533f4" />
+<img width="688" height="266" alt="image" src="screenshots/48298d05-b3a4-4738-8ff4-b8974bf533f4.png" />
 
 
 #### BUG-21: Дублирование фрагмента шапки (header) в нижней части страницы кабинета продавца
 - **Где обнаружено**: `seller-card.png` (Нижняя часть скриншота)
 - **Фактический результат**: В самом низу под контентом повторно отображается навигационная панель шапки.
 - **Ожидаемый результат**: Корректное завершение верстки страницы без дублирования навигационных панелей.
-<img width="1255" height="344" alt="image" src="https://github.com/user-attachments/assets/bc4abde7-ded4-4e06-be8c-a95abb25371f" />
+<img width="1255" height="344" alt="image" src="screenshots/bc4abde7-ded4-4e06-be8c-a95abb25371f.png" />
 
 #### BUG-22: Неконсистентность регистра слова «в наличии» в строке состояния
 - **Где обнаружено**: `item-card.png` (Под ценой vs Раздел «Характеристики»)
 - **Фактический результат**: Под ценой выводится `Опубликовано · в наличии 3 шт.` (со строчной буквы «в»), а в характеристиках — `Доступность: В наличии` (с заглавной «В»).
 - **Ожидаемый результат**: Единый стиль регистра согласно стайл-гайду интерфейса.
-<img width="195" height="50" alt="image" src="https://github.com/user-attachments/assets/b5cf902f-0904-4a71-8beb-cccf7b34ab11" />
+<img width="195" height="50" alt="image" src="screenshots/b5cf902f-0904-4a71-8beb-cccf7b34ab11.png" />
 
 
